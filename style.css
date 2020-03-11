@@ -1,0 +1,19 @@
+body{
+	background-image: url("LandingStock_image_26.jpg");
+	background-size: cover;
+}
+.header{
+	text-align: right;
+	font-family: fantasy;
+	margin: 200px 50px 20px 0px;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.clear{
+	transform: scale(1.1);
+	text-align: right;
+	font-weight: normal;
+	margin-right: 100px;
+	margin-bottom: 200px;
+}
